@@ -34,15 +34,64 @@
       <li><strong>Priyanussahoo1@gmail.com</strong></li>
     </p>
 
-    <form class="" action="" method="post">
-      <label for="">Your Name:</label>
-      <input type="text" name="" />
-      <input type="color" /><br />
-      <label for="">password:</label>
-      <input type="password" />
-      <!-- <label for="">Do you want to sign up to email list</label>
-      <input type="checkbox" /> -->
-      <input type="submit" />
+    <form
+      action="mailto:priyansusahoo1@gmail.com"
+      method="post"
+      enctype="text/plain"
+    >
+      <!-- new table -->
+      <table cellspacing="5">
+        <tr>
+          <td>
+            <h4>Create new Account</h4>
+          </td>
+        </tr>
+      </table>
+      <!-- new table -->
+      <table cellspacing="5">
+        <tr>
+          <td>
+            <label for="">User Name:</label>
+          </td>
+          <td><input type="text" name="yourName" /> <br /></td>
+        </tr>
+        <tr>
+          <td>
+            <label for="">Email:</label>
+          </td>
+          <td><input type="email" name="yourEmail" /> <br /></td>
+        </tr>
+        <tr>
+          <td>
+            <label for="">Feedback:</label>
+          </td>
+          <td>
+            <textarea name="yourMessage" id="" cols="30" rows="7"></textarea>
+            <br />
+          </td>
+        </tr>
+
+        <table cellpadding="5">
+          <tr>
+            <td>
+              <label for="">Do you want to sign up to the email list?</label>
+            </td>
+            <td><input type="checkbox" name="" id="" /></td>
+          </tr>
+        </table>
+
+        <tr>
+          <!-- <td>
+            <label for="">Do you want to sign up to email list</label>
+          </td>
+          <td>
+            <input type="checkbox" />
+          </td> -->
+          <td>
+            <input type="submit" />
+          </td>
+        </tr>
+      </table>
     </form>
   </body>
 </html>
