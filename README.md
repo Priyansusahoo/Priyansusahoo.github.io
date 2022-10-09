@@ -1,5 +1,4 @@
-  *![html5-logo-31819](https://user-images.githubusercontent.com/78722016/137380398-c7bf76f7-e4e6-4fae-854c-a4f9123fcb45.png)*
-
+<div align="center"> <img src="https://user-images.githubusercontent.com/78722016/137380398-c7bf76f7-e4e6-4fae-854c-a4f9123fcb45.png" width="300"> </div>
 # WEBSITE-Assignment
     • Git Repository for WEBSITE
     
