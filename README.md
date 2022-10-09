@@ -6,5 +6,5 @@
     
     • All static website projects hosted here.
     
-    *******************************WELL THIS IS IT FOR THIS REPO********************************
+                       ***
 
